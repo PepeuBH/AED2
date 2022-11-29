@@ -1,0 +1,660 @@
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+(D) [COPA 1962] [QUARTAS-DE-FINAL] [10/6] [Iugoslávia (1) x (0) Alemanha Ocidental] [Santiago]
+(D) [COPA 2014] [GRUPO D] [24/6] [Itália (0) x (1) Uruguai] [Natal]
+(D) [COPA 2006] [GRUPO H] [19/6] [Espanha (3) x (1) Tunísia] [Stuttgart]
+(D) [COPA 1978] [GRUPO B] [1/6] [Polônia (0) x (0) Alemanha Ocidental] [Buenos Aires]
+3
+(D) [COPA 2006] [GRUPO F] [18/6] [Japão (0) x (0) Croácia] [Nuremberg]
+(D) [COPA 1974] [SEGUNDA FASE - GRUPO 1] [26/6] [Brasil (1) x (0) Alemanha Oriental] [Hanover]
+3
+(D) [COPA 1974] [GRUPO B] [22/6] [Escócia (1) x (1) Iugoslávia] [Frankfurt]
+3
+3
+(D) [COPA 1950] [FASE FINAL] [3/7] [Brasil (7) x (1) Suécia] [Rio de Janeiro]
+3
+3
+(D) [COPA 2006] [OITAVAS-DE-FINAL] [25/6] [Portugal (1) x (0) Holanda] [Nuremberg]
+3
+(D) [COPA 1954] [SEMIFINAL] [30/6] [Alemanha Ocidental (6) x (1) Áustria] [Basel]
+(D) [COPA 2014] [GRUPO G] [22/6] [Estados Unidos (2) x (2) Portugal] [Manaus]
+3
+(D) [COPA 2006] [GRUPO C] [21/6] [Holanda (0) x (0) Argentina] [Frankfurt]
+3
+(D) [COPA 2014] [GRUPO D] [20/6] [Itália (0) x (1) Costa Rica] [Recife]
+(D) [COPA 2002] [GRUPO H] [10/6] [Bélgica (1) x (1) Tunísia] [Oita]
+3
+3
+3
+(D) [COPA 1970] [QUARTAS-DE-FINAL] [14/6] [Itália (4) x (1) México] [Toluca]
+3
+(D) [COPA 1990] [GRUPO E] [12/6] [Bélgica (2) x (0) Coreia do Sul] [Verona]
+3
+3
+(D) [COPA 1958] [GRUPO D] [11/6] [Brasil (0) x (0) Inglaterra] [Gotemborg]
+(D) [COPA 1978] [SEGUNDA FASE - GRUPO 2] [14/6] [Argentina (2) x (0) Polônia] [Rosario]
+(D) [COPA 2010] [GRUPO D] [13/6] [Sérvia (0) x (1) Gana] [Pretória]
+(D) [COPA 2002] [GRUPO D] [14/6] [Polônia (3) x (1) Estados Unidos] [Daejeon]
+(D) [COPA 1986] [OITAVAS-DE-FINAL] [18/6] [Inglaterra (3) x (0) Paraguai] [Cidade do México]
+(D) [COPA 2010] [GRUPO E] [24/6] [Camarões (1) x (2) Holanda] [Cidade do Cabo]
+3
+3
+3
+(D) [COPA 1958] [GRUPO D] [17/6] [União Soviética (1) x (0) Inglaterra] [Gotemborg]
+(D) [COPA 2018] [GRUPO G] [18/6] [Tunisia (1) x (2) Inglaterra] [Volgograd Arena]
+3
+3
+(D) [COPA 1974] [GRUPO B] [14/6] [Escócia (2) x (0) Zaire] [Dortmund]
+(D) [COPA 1974] [SEGUNDA FASE - GRUPO 1] [26/6] [Holanda (4) x (0) Argentina] [Gelsenkirchen]
+3
+(D) [COPA 1990] [GRUPO E] [17/6] [Espanha (3) x (1) Coreia do Sul] [Udine]
+3
+3
+3
+(D) [COPA 1958] [SEMIFINAL] [24/6] [Brasil (5) x (2) França] [Solna]
+(D) [COPA 1986] [GRUPO B] [11/6] [Bélgica (2) x (2) Paraguai] [Toluca]
+3
+3
+3
+(D) [COPA 1990] [OITAVAS-DE-FINAL] [23/6] [Camarões (2) x (1) Colômbia] [Napoli]
+(D) [COPA 1966] [Disp. 3°. Lugar] [28/7] [Portugal (2) x (1) União Soviética] [Londres]
+(D) [COPA 1938] [OITAVAS-DE-FINAL] [4/6] [Suíça (1) x (1) Alemanha] [Paris]
+(D) [COPA 1934] [OITAVAS-DE-FINAL] [27/5] [Suíça (3) x (2) Holanda] [Milão]
+(D) [COPA 1954] [GRUPO B] [20/6] [Hungria (8) x (3) Alemanha Ocidental] [Basel]
+3
+(D) [COPA 2018] [GRUPO F] [27/6] [Mexico (0) x (3) Suecia] [Kazan Arena]
+3
+3
+3
+3
+3
+3
+(D) [COPA 1966] [GRUPO C] [20/7] [Hungria (3) x (1) Bulgária] [Manchester]
+3
+(D) [COPA 2006] [GRUPO H] [19/6] [Arábia Saudita (0) x (4) Ucrânia] [Hamburgo]
+3
+3
+3
+3
+3
+(D) [COPA 2006] [GRUPO H] [23/6] [Ucrânia (1) x (0) Tunísia] [Berlim]
+3
+(D) [COPA 1990] [OITAVAS-DE-FINAL] [24/6] [Alemanha Ocidental (2) x (1) Holanda] [Milão]
+(D) [COPA 1930] [GRUPO C] [21/7] [Uruguai (4) x (0) Romênia] [Montevidéu]
+3
+3
+3
+(D) [COPA 1978] [Disp. 3°. Lugar] [24/6] [Brasil (2) x (1) Itália] [Buenos Aires]
+(D) [COPA 1982] [GRUPO B] [20/6] [Alemanha Ocidental (4) x (1) Chile] [Gijón]
+(D) [COPA 1994] [GRUPO A] [18/6] [Romênia (3) x (1) Colômbia] [Los Angeles]
+(D) [COPA 2014] [OITAVAS-DE-FINAL] [1/7] [Bélgica (2) x (1) Estados Unidos] [Salvador]
+(D) [COPA 2018] [GRUPO F] [18/6] [Suécia (1) x (0) Coréia do Sul] [Nizhny Novgorod Stadium]
+(D) [COPA 1994] [GRUPO C] [17/6] [Coreia do Sul (2) x (2) Espanha] [Dallas]
+3
+(D) [COPA 1986] [GRUPO B] [4/6] [Paraguai (1) x (0) Iraque] [Toluca]
+(D) [COPA 2010] [GRUPO H] [25/6] [Chile (1) x (2) Espanha] [Pretória]
+(D) [COPA 1958] [GRUPO D] [15/6] [Brasil (2) x (0) União Soviética] [Gotemborg]
+3
+3
+3
+3
+3
+3
+(D) [COPA 1998] [GRUPO A] [10/6] [Noruega (2) x (2) Marrocos] [Montpellier]
+3
+(D) [COPA 2018] [GRUPO G] [18/6] [Bélgica (3) x (0) Panamá] [Fisht Satdium]
+3
+(D) [COPA 2006] [SEMIFINAL] [4/7] [Alemanha (0) x (2) Itália] [Dortmund]
+3
+3
+3
+(D) [COPA 1978] [GRUPO A] [6/6] [Itália (3) x (1) Hungria] [Mar del Plata]
+(D) [COPA 2014] [QUARTAS-DE-FINAL] [4/7] [França (0) x (1) Alemanha] [Rio de Janeiro]
+3
+(D) [COPA 1982] [GRUPO F] [18/6] [Brasil (4) x (1) Escócia] [Sevilla]
+(D) [COPA 1982] [GRUPO A] [22/6] [Polônia (5) x (1) Peru] [Corunha]
+(D) [COPA 2002] [GRUPO F] [2/6] [Inglaterra (1) x (1) Suécia] [Saitama]
+3
+(D) [COPA 2006] [GRUPO B] [10/6] [Inglaterra (1) x (0) Paraguai] [Frankfurt]
+3
+3
+3
+(D) [COPA 1930] [GRUPO A] [19/7] [Argentina (6) x (3) México] [Montevidéu]
+(D) [COPA 1954] [QUARTAS-DE-FINAL] [26/6] [Uruguai (4) x (2) Inglaterra] [Basel]
+3
+3
+(D) [COPA 1990] [SEMIFINAL] [3/7] [Argentina (1) x (1) Itália] [Napoli]
+(D) [COPA 1990] [GRUPO E] [13/6] [Espanha (0) x (0) Uruguai] [Udine]
+(D) [COPA 1982] [GRUPO C] [23/6] [Argentina (2) x (0) El Salvador] [Alicante]
+3
+(D) [COPA 1966] [FINAL] [30/7] [Inglaterra (4) x (2) Alemanha Ocidental] [Londres]
+(D) [COPA 2006] [GRUPO D] [11/6] [Angola (0) x (1) Portugal] [Colônia]
+(D) [COPA 2010] [OITAVAS-DE-FINAL] [26/6] [Uruguai (2) x (1) Coreia do Sul] [Porto Elizabeth]
+(D) [COPA 1998] [OITAVAS-DE-FINAL] [27/6] [Brasil (4) x (1) Chile] [Paris]
+(D) [COPA 1934] [QUARTAS-DE-FINAL] [31/5] [Itália (1) x (1) Espanha] [Florence]
+(D) [COPA 2002] [GRUPO C] [9/6] [Costa Rica (1) x (1) Turquia] [Incheon]
+3
+3
+3
+3
+3
+3
+3
+(D) [COPA 2002] [OITAVAS-DE-FINAL] [16/6] [Espanha (1) x (1) Irlanda] [Suwon]
+3
+(D) [COPA 1966] [GRUPO C] [16/7] [Portugal (3) x (0) Bulgária] [Manchester]
+(D) [COPA 2002] [OITAVAS-DE-FINAL] [18/6] [Turquia (1) x (0) Japão] [Miyagi]
+3
+3
+(D) [COPA 2006] [OITAVAS-DE-FINAL] [26/6] [Suíça (0) x (0) Ucrânia] [Colônia]
+3
+(D) [COPA 1954] [GRUPO A] [19/6] [França (3) x (2) México] [Genebra]
+(D) [COPA 1986] [OITAVAS-DE-FINAL] [16/6] [Argentina (1) x (0) Uruguai] [Puebla]
+3
+3
+3
+3
+(D) [COPA 2010] [OITAVAS-DE-FINAL] [27/6] [Alemanha (4) x (1) Inglaterra] [Bloemfontein]
+(D) [COPA 1930] [GRUPO D] [20/7] [Paraguai (1) x (0) Bélgica] [Montevidéu]
+3
+(D) [COPA 2010] [QUARTAS-DE-FINAL] [2/7] [Uruguai (1) x (1) Gana] [Joanesburgo]
+3
+3
+(D) [COPA 1978] [GRUPO D] [7/6] [Holanda (0) x (0) Peru] [Mendoza]
+3
+(D) [COPA 1998] [GRUPO F] [25/6] [Alemanha (2) x (0) Irã] [Montpellier]
+3
+3
+3
+3
+(D) [COPA 1970] [GRUPO B] [10/6] [Suécia (1) x (0) Uruguai] [Puebla]
+3
+3
+(D) [COPA 1974] [FINAL] [7/7] [Alemanha Ocidental (2) x (1) Holanda] [Berlim]
+(D) [COPA 1994] [GRUPO D] [30/6] [Nigéria (2) x (0) Grécia] [Boston]
+3
+(D) [COPA 2010] [QUARTAS-DE-FINAL] [3/7] [Paraguai (0) x (1) Espanha] [Joanesburgo]
+3
+(D) [COPA 1978] [SEGUNDA FASE - GRUPO 1] [18/6] [Holanda (2) x (2) Alemanha Ocidental] [Cordoba]
+3
+3
+(D) [COPA 1998] [QUARTAS-DE-FINAL] [4/7] [Holanda (2) x (1) Argentina] [Marseilles]
+3
+(D) [COPA 1978] [GRUPO D] [3/6] [Holanda (3) x (0) Irã] [Mendoza]
+3
+(D) [COPA 2006] [GRUPO F] [12/6] [Austrália (3) x (1) Japão] [Kaiserslautern]
+(D) [COPA 1974] [Disp. 3°. Lugar] [6/7] [Polônia (1) x (0) Brasil] [Berlim]
+3
+3
+(D) [COPA 2014] [GRUPO H] [22/6] [Coreia do Sul (2) x (4) Argélia] [Porto Alegre]
+3
+(D) [COPA 1950] [FASE FINAL] [9/7] [Espanha (2) x (2) Uruguai] [São Paulo]
+3
+(D) [COPA 1986] [GRUPO F] [11/6] [Marrocos (3) x (1) Portugal] [Monterrey]
+3
+(D) [COPA 1930] [GRUPO C] [18/7] [Uruguai (1) x (0) Peru] [Montevidéu]
+(D) [COPA 1982] [GRUPO C] [18/6] [Argentina (4) x (1) Hungria] [Alicante]
+(D) [COPA 1982] [GRUPO D] [16/6] [Inglaterra (3) x (1) França] [Bilbau]
+(D) [COPA 2018] [GRUPO A] [20/6] [Uruguai (1) x (0) Arábia Saudita] [Rostov Arena]
+(D) [COPA 1978] [GRUPO B] [6/6] [Polônia (1) x (0) Tunísia] [Rosario]
+(D) [COPA 2006] [GRUPO B] [20/6] [Paraguai (2) x (0) Trinidad e Tobago] [Kaiserslautern]
+3
+3
+3
+3
+3
+(D) [COPA 1990] [GRUPO C] [20/6] [Costa Rica (2) x (1) Suécia] [Genoa]
+3
+(D) [COPA 2018] [GRUPO B] [25/6] [Irã (1) x (1) Portugal] [Mordovia Arena]
+(D) [COPA 1994] [GRUPO B] [28/6] [Brasil (1) x (1) Suécia] [Detroit]
+3
+3
+3
+[0][COPA 2002] [GRUPO E] [5/6] [Alemanha (1) x (1) Irlanda] [Ibaraki]
+[1][COPA 2006] [OITAVAS-DE-FINAL] [24/6] [Alemanha (2) x (0) Suécia] [Munique]
+[2][COPA 1974] [GRUPO A] [14/6] [Alemanha Ocidental (1) x (0) Chile] [Berlim]
+[3][COPA 1998] [OITAVAS-DE-FINAL] [29/6] [Holanda (2) x (1) Iugoslávia] [Toulouse]
+[4][COPA 1974] [GRUPO A] [22/6] [Alemanha Oriental (1) x (0) Alemanha Ocidental] [Hamburgo]
+[5][COPA 1994] [GRUPO A] [22/6] [Suíça (4) x (1) Romênia] [Roma]
+[6][COPA 1990] [GRUPO A] [19/6] [Itália (2) x (0) Tchecoslováquia] [Roma]
+[7][COPA 1982] [SEGUNDA FASE - GRUPO 4] [28/6] [França (1) x (0) Áustria] [Madri]
+[8][COPA 2002] [Disp. 3°. Lugar] [29/6] [Turquia (3) x (2) Coreia do Sul] [Daegu]
+[9][COPA 2006] [GRUPO F] [13/6] [Brasil (1) x (0) Croácia] [Berlim]
+[10][COPA 1986] [GRUPO A] [2/6] [Argentina (3) x (1) Coreia do Sul] [Cidade do México]
+[11][COPA 1974] [GRUPO D] [19/6] [Argentina (1) x (1) Itália] [Stuttgart]
+[12][COPA 2002] [GRUPO B] [12/6] [Espanha (3) x (2) África do Sul] [Daejeon]
+[13][COPA 1990] [GRUPO A] [15/6] [Tchecoslováquia (1) x (0) Áustria] [Florence]
+[14][COPA 1938] [OITAVAS-DE-FINAL] [5/6] [Brasil (6) x (5) Polônia] [Strasbourg]
+[15][COPA 2006] [Disp. 3°. Lugar] [8/7] [Alemanha (3) x (1) Portugal] [Stuttgart]
+[16][COPA 1986] [GRUPO A] [10/6] [Itália (3) x (2) Coreia do Sul] [Puebla]
+[17][COPA 1970] [GRUPO A] [11/6] [México (1) x (0) Bélgica] [Cidade do México]
+[18][COPA 1954] [Disp. 3°. Lugar] [3/7] [Áustria (3) x (1) Uruguai] [Zurique]
+[19][COPA 1982] [GRUPO C] [15/6] [Hungria (10) x (1) El Salvador] [Elche]
+[20][COPA 1962] [SEMIFINAL] [13/6] [Brasil (4) x (2) Chile] [Santiago]
+[21][COPA 1950] [GRUPO A] [28/6] [Brasil (2) x (2) Suíça] [São Paulo]
+[22][COPA 2018] [GRUPO A] [14/6] [Russia (5) x (0) Arábia Saudita] [Luzhnik Stadium]
+[23][COPA 2006] [GRUPO D] [16/6] [México (0) x (0) Angola] [Hannover]
+[24][COPA 2018] [GRUPO D] [26/6] [Islândia (1) x (2) Croácia] [Rostov Arena]
+[25][COPA 2006] [QUARTAS-DE-FINAL] [1/7] [Brasil (0) x (1) França] [Frankfurt]
+[26][COPA 2014] [Disp. 3°. Lugar] [12/7] [Brasil (0) x (3) Holanda] [Brasília]
+[27][COPA 1998] [GRUPO G] [22/6] [Romênia (2) x (1) Inglaterra] [Toulouse]
+[28][COPA 2018] [GRUPO E] [22/6] [Brasil (2) x (0) Costa Rica] [Kaliningrad Stadium]
+[29][COPA 2006] [GRUPO E] [22/6] [República Tcheca (0) x (2) Itália] [Hamburgo]
+[30][COPA 2018] [GRUPO C] [16/6] [Peru (0) x (1) Dinamarca] [Mordovia Arena]
+[31][COPA 1998] [GRUPO G] [26/6] [Inglaterra (2) x (0) Colômbia] [Lens]
+[32][COPA 1970] [GRUPO D] [7/6] [Alemanha Ocidental (5) x (2) Bulgária] [León]
+[33][COPA 1998] [FINAL] [12/7] [França (3) x (0) Brasil] [St. Denis]
+[34][COPA 1994] [GRUPO E] [28/6] [Itália (1) x (1) México] [Washington DC]
+[35][COPA 1966] [GRUPO D] [19/7] [Coreia do Norte (1) x (0) Itália] [Middlesbrough]
+[36][COPA 1990] [GRUPO D] [19/6] [Colômbia (1) x (1) Alemanha Ocidental] [Milão]
+[37][COPA 1982] [SEGUNDA FASE - GRUPO 2] [2/7] [Alemanha Ocidental (2) x (1) Espanha] [Madri]
+[38][COPA 2002] [GRUPO D] [10/6] [Portugal (4) x (0) Polônia] [Jeonju]
+[39][COPA 1958] [GRUPO A] [8/6] [Irlanda do Norte (1) x (0) Tchecoslováquia] [Halmstad]
+[40][COPA 2018] [OITAVAS-DE-FINAL] [30/6] [Uruguai (2) x (1) Portugal] [Fisht Stadium]
+[41][COPA 2010] [OITAVAS-DE-FINAL] [29/6] [Espanha (1) x (0) Portugal] [Cidade do Cabo]
+[42][COPA 2010] [GRUPO A] [17/6] [França (0) x (2) México] [Polokwane]
+[43][COPA 1966] [GRUPO D] [20/7] [União Soviética (2) x (1) Chile] [Sunderland]
+[44][COPA 2010] [GRUPO H] [21/6] [Espanha (2) x (0) Honduras] [Joanesburgo]
+[45][COPA 2010] [OITAVAS-DE-FINAL] [26/6] [Estados Unidos (1) x (2) Gana] [Rustemburgo]
+[46][COPA 1962] [QUARTAS-DE-FINAL] [10/6] [Chile (2) x (1) União Soviética] [Arica]
+[47][COPA 1934] [OITAVAS-DE-FINAL] [27/5] [Espanha (3) x (1) Brasil] [Turim]
+[48][COPA 2010] [GRUPO G] [15/6] [Costa do Marfim (0) x (0) Portugal] [Porto Elizabeth]
+[49][COPA 2002] [GRUPO D] [10/6] [Coreia do Sul (1) x (1) Estados Unidos] [Daegu]
+[50][COPA 1954] [GRUPO D] [20/6] [Itália (4) x (1) Bélgica] [Lugano]
+[51][COPA 1950] [GRUPO B] [29/6] [Estados Unidos (1) x (0) Inglaterra] [Belo Horizonte]
+[52][COPA 1986] [GRUPO B] [8/6] [Bélgica (2) x (1) Iraque] [Toluca]
+[53][COPA 1970] [QUARTAS-DE-FINAL] [14/6] [Alemanha Ocidental (3) x (2) Inglaterra] [León]
+[54][COPA 1994] [GRUPO B] [19/6] [Suécia (2) x (2) Camarões] [Los Angeles]
+[55][COPA 1998] [GRUPO A] [10/6] [Brasil (2) x (1) Escócia] [St. Denis]
+[56][COPA 1978] [SEGUNDA FASE - GRUPO 1] [18/6] [Itália (1) x (0) Áustria] [Buenos Aires]
+[57][COPA 1962] [GRUPO B] [31/5] [Itália (0) x (0) Alemanha Ocidental] [Santiago]
+[58][COPA 2010] [GRUPO G] [20/6] [Brasil (3) x (1) Costa do Marfim] [Joanesburgo]
+[59][COPA 2006] [GRUPO B] [20/6] [Suécia (2) x (2) Inglaterra] [Colônia]
+[60][COPA 1934] [SEMIFINAL] [3/6] [Itália (1) x (0) Áustria] [Milão]
+[61][COPA 1998] [GRUPO E] [25/6] [Bélgica (1) x (1) Coreia do Sul] [Paris]
+[62][COPA 1974] [GRUPO C] [15/6] [Bulgária (0) x (0) Suécia] [Colônia]
+[63][COPA 1990] [GRUPO D] [14/6] [Iugoslávia (1) x (0) Colômbia] [Bologna]
+[64][COPA 1986] [GRUPO D] [3/6] [Argélia (1) x (1) Irlanda do Norte] [Guadalajara]
+[65][COPA 2014] [GRUPO C] [19/6] [Colômbia (2) x (1) Costa do Marfim] [Brasília]
+[66][COPA 1974] [SEGUNDA FASE - GRUPO 1] [3/7] [Argentina (1) x (1) Alemanha Oriental] [Gelsenkirchen]
+[67][COPA 1986] [GRUPO D] [7/6] [Espanha (2) x (1) Irlanda do Norte] [Guadalajara]
+[68][COPA 1950] [FASE FINAL] [16/7] [Suécia (3) x (1) Espanha] [São Paulo]
+[69][COPA 2006] [GRUPO E] [17/6] [Itália (1) x (1) Estados Unidos] [Kaiserslautern]
+[70][COPA 1990] [GRUPO A] [9/6] [Itália (1) x (0) Áustria] [Roma]
+[71][COPA 1986] [GRUPO D] [1/6] [Brasil (1) x (0) Espanha] [Guadalajara]
+[72][COPA 1986] [GRUPO C] [9/6] [França (3) x (0) Hungria] [Leon]
+[73][COPA 2010] [GRUPO G] [25/6] [Portugal (0) x (0) Brasil] [Durban]
+[74][COPA 2018] [OITAVAS-DE-FINAL] [3/7] [Colombia (3) x (4) Inglaterra] [Spartak Stadium]
+[75][COPA 1998] [OITAVAS-DE-FINAL] [28/6] [Dinamarca (4) x (1) Nigéria] [St. Denis]
+[76][COPA 1954] [GRUPO D] [20/6] [Inglaterra (2) x (0) Suíça] [Berna]
+[77][COPA 2006] [GRUPO A] [20/6] [Costa Rica (1) x (2) Polônia] [Hannover]
+[78][COPA 1998] [GRUPO B] [17/6] [Itália (3) x (0) Camarões] [Montpellier]
+[79][COPA 1986] [GRUPO E] [13/6] [Dinamarca (2) x (0) Alemanha Ocidental] [Queretaro]
+[80][COPA 2010] [GRUPO E] [14/6] [Holanda (2) x (0) Dinamarca] [Joanesburgo]
+[81][COPA 1990] [GRUPO B] [8/6] [Camarões (1) x (0) Argentina] [Milão]
+[82][COPA 1958] [QUARTAS-DE-FINAL] [19/6] [Alemanha Ocidental (1) x (0) Iugoslávia] [Malmoe]
+[83][COPA 1982] [GRUPO A] [23/6] [Itália (1) x (1) Camarões] [Vigo]
+[84][COPA 2006] [GRUPO G] [13/6] [França (0) x (0) Suíça] [Stuttgart]
+[85][COPA 2010] [GRUPO B] [22/6] [Grécia (0) x (2) Argentina] [Polokwane]
+[86][COPA 2018] [GRUPO C] [26/6] [Australia (0) x (2) Peru] [Fisht Stadium]
+[87][COPA 1982] [GRUPO A] [19/6] [Camarões (0) x (0) Polônia] [Corunha]
+[88][COPA 1978] [GRUPO C] [11/6] [Espanha (1) x (0) Suécia] [Buenos Aires]
+[89][COPA 1986] [QUARTAS-DE-FINAL] [22/6] [Bélgica (1) x (1) Espanha] [Puebla]
+[90][COPA 1982] [GRUPO A] [14/6] [Itália (0) x (0) Polônia] [Vigo]
+[91][COPA 1974] [SEGUNDA FASE - GRUPO 2] [26/6] [Polônia (1) x (0) Suécia] [Stuttgart]
+[92][COPA 1970] [GRUPO B] [7/6] [Israel (1) x (1) Suécia] [Toluca]
+[93][COPA 1966] [GRUPO D] [16/7] [União Soviética (1) x (0) Itália] [Sunderland]
+[94][COPA 1966] [GRUPO A] [11/7] [Inglaterra (0) x (0) Uruguai] [Londres]
+[95][COPA 1934] [Disp. 3°. Lugar] [7/6] [Alemanha (3) x (2) Áustria] [Nápoli]
+[96][COPA 1954] [QUARTAS-DE-FINAL] [27/6] [Hungria (4) x (2) Brasil] [Berna]
+[97][COPA 2002] [GRUPO A] [6/6] [França (0) x (0) Uruguai] [Busan]
+[98][COPA 2002] [GRUPO G] [3/6] [Itália (2) x (0) Equador] [Sapporo]
+[99][COPA 1990] [GRUPO A] [10/6] [Tchecoslováquia (5) x (1) Estados Unidos] [Florence]

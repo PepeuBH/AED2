@@ -1,0 +1,822 @@
+4/7/1954;Alemanha Ocidental
+17/6/1994;Coreia do Sul
+30/6/2014;França
+3/7/1990;Argentina
+14/6/2010;Holanda
+19/6/1982;Bélgica
+23/6/1982;Brasil
+4/6/2002;Costa Rica
+26/6/1958;França
+16/6/1998;Brasil
+19/7/1966;Uruguai
+16/6/2010;Honduras
+16/7/1966;Inglaterra
+19/6/1954;França
+22/6/2010;Nigéria
+21/6/1986;Alemanha Ocidental
+17/6/1958;País de Gales
+17/6/2018;Costa Rica
+20/6/1970;Alemanha Ocidental
+7/7/2018;Rússia
+20/6/2006;Equador
+8/6/1986;Alemanha Ocidental
+17/6/1990;Egito
+1/6/2002;Uruguai
+22/6/1994;Estados Unidos
+2/7/1950;Itália
+22/6/1986;Argentina
+15/6/1974;Bulgária
+18/6/1998;Dinamarca
+10/6/1978;Polônia
+5/6/2002;Alemanha
+18/6/2002;Coreia do Sul
+25/6/2018;Uruguai
+7/7/1974;Alemanha Ocidental
+21/6/1978;Argentina
+27/7/1930;Uruguai
+21/6/1998;Irã
+1/7/2014;Bélgica
+15/6/1990;Alemanha Ocidental
+4/7/1998;Croácia
+13/6/1986;Dinamarca
+17/6/1986;França
+2/7/2018;Bélgica
+16/6/1990;Brasil
+25/6/1998;Holanda
+15/6/2010;Costa do Marfim
+10/6/1998;Brasil
+24/6/2018;Japão
+8/6/2002;Brasil
+2/6/1986;Marrocos
+6/7/2010;Uruguai
+27/5/1934;Suíça
+15/6/1982;Escócia
+28/6/1994;Itália
+31/5/1934;Áustria
+14/6/2002;Polônia
+10/6/2006;Argentina
+16/6/2014;Alemanha
+16/6/1954;Áustria
+23/6/2018;Coreia do Sul
+16/6/1990;Escócia
+14/6/2010;Japão
+23/6/2006;Ucrânia
+16/6/2010;África do Sul
+15/6/1982;Camarões
+11/6/2002;Alemanha
+25/6/1998;Iugoslávia
+8/6/1958;Suécia
+6/6/1986;Inglaterra
+14/6/1962;Brasil
+30/6/1994;Nigéria
+17/6/1986;Alemanha Ocidental
+2/7/2010;Uruguai
+21/6/2010;Espanha
+1/7/1950;Brasil
+17/7/1930;Iugoslávia
+13/6/2006;França
+6/6/1962;União Soviética
+6/6/1970;Peru
+21/6/1970;Brasil
+28/6/2010;Holanda
+22/6/2006;República Tcheca
+12/6/1990;Bélgica
+13/6/2002;México
+14/6/2002;Bélgica
+6/6/1962;Brasil
+18/6/2010;Inglaterra
+13/6/1990;Argentina
+13/7/1950;Brasil
+15/6/2006;Equador
+22/6/1974;Escócia
+5/6/1986;Argentina
+6/6/1978;Alemanha Ocidental
+2/7/2010;Holanda
+21/6/2014;Alemanha
+21/6/1978;Brasil
+2/7/1950;Chile
+15/6/2018;Egito
+30/6/1954;Hungria
+13/7/1966;Itália
+30/6/1974;Brasil
+11/6/1990;Inglaterra
+12/6/1938;Itália
+8/6/2002;Croácia
+21/6/1986;França
+17/6/1954;Alemanha Ocidental
+17/6/1990;Espanha
+15/6/2018;Portugal
+22/6/2010;França
+2/6/1978;Tunísia
+10/6/1962;Chile
+24/6/1998;Espanha
+19/6/1974;Polônia
+15/7/2018;França
+31/5/1986;Itália
+1/7/2018;Croácia
+14/6/2014;Inglaterra
+19/6/1998;Espanha
+9/6/1990;Itália
+5/6/1938;Cuba
+26/6/1998;Inglaterra
+16/7/1966;União Soviética
+24/6/2010;Dinamarca
+30/6/1974;Holanda
+12/6/1986;Brasil
+21/6/2014;Nigéria
+11/6/2002;Dinamarca
+2/6/1962;Chile
+10/6/2006;Inglaterra
+18/6/1990;União Soviética
+10/7/2010;Uruguai
+13/6/2002;Brasil
+24/6/2006;Argentina
+4/7/2006;Alemanha
+10/6/1970;Brasil
+20/6/1998;Holanda
+25/6/2006;Portugal
+16/6/1986;Brasil
+22/6/2002;Coreia do Sul
+28/6/1994;Brasil
+16/7/1966;Argentina
+11/6/1958;Argentina
+17/6/2010;Argentina
+26/6/2006;Itália
+13/6/1982;Bélgica
+13/6/1986;Escócia
+22/6/1974;Austrália
+18/6/2006;Brasil
+15/6/2006;Suécia
+20/6/1998;Croácia
+3/6/1978;Holanda
+20/6/1994;Brasil
+24/6/2014;Grécia
+20/6/2010;Eslováquia
+16/6/1982;Inglaterra
+16/7/1930;Chile
+31/5/1934;Tchecoslováquia
+12/6/2010;Coreia do Sul
+8/6/1958;Irlanda do Norte
+13/7/1966;Portugal
+9/6/1990;Romênia
+8/6/1958;Brasil
+16/6/2018;França
+23/6/1974;Argentina
+3/7/1974;Argentina
+31/5/2002;França
+26/6/2018;Nigéria
+3/6/1962;Hungria
+25/6/1982;Alemanha Ocidental
+2/6/1962;Inglaterra
+8/6/1958;Escócia
+10/6/1990;Alemanha Ocidental
+12/6/2002;Suécia
+21/6/1990;Espanha
+14/6/2002;Japão
+11/6/1986;Marrocos
+26/6/1994;Bulgária
+13/7/1994;Itália
+25/6/1986;Argentina
+23/6/1954;Alemanha Ocidental
+31/5/1962;União Soviética
+17/6/2002;Brasil
+30/6/2018;França
+27/5/1934;Tchecoslováquia
+23/6/1982;Argentina
+23/6/2006;Suíça
+29/6/1982;Inglaterra
+27/6/1954;Hungria
+10/6/1986;Argentina
+13/7/1966;França
+26/6/2006;Suíça
+7/6/2002;Inglaterra
+26/6/2014;Coreia do Sul
+12/6/1990;Egito
+21/6/2006;Holanda
+18/6/1974;Alemanha Oriental
+9/6/1986;União Soviética
+12/7/1966;União Soviética
+7/7/1998;Brasil
+17/6/2006;Itália
+14/6/1998;Iugoslávia
+13/7/1950;Uruguai
+15/6/1982;Hungria
+26/6/1998;Romênia
+28/6/2018;Japão
+21/6/1998;Argentina
+18/6/1982;Argentina
+25/6/1994;Argentina
+16/6/2018;Croácia
+14/6/2006;Alemanha
+14/6/1974;Alemanha Oriental
+27/6/2010;Alemanha
+3/6/1986;Portugal
+7/6/1970;Israel
+3/6/1986;Argélia
+26/6/2010;Uruguai
+14/6/2014;Colômbia
+25/6/2018;Espanha
+1/6/1986;França
+29/6/1982;Itália
+15/6/1974;Itália
+14/6/1970;Itália
+15/6/1958;Hungria
+30/5/1962;Uruguai
+30/6/2014;Alemanha
+24/6/2018;Polonia
+12/7/1998;França
+14/6/2010;Itália
+23/6/2010;Eslovênia
+26/6/2002;Brasil
+13/6/2006;Brasil
+17/6/1982;Irlanda do Norte
+9/6/2002;Costa Rica
+20/6/1990;Costa Rica
+12/6/1998;Dinamarca
+5/6/1986;Bulgária
+16/6/1962;Chile
+20/7/1930;Brasil
+14/6/1978;Itália
+11/6/2006;México
+18/6/1978;Holanda
+3/6/1962;Alemanha Ocidental
+17/6/2006;República Tcheca
+21/6/1990;Uruguai
+11/6/1978;Espanha
+8/7/2014;Brasil
+21/6/2002;Alemanha
+19/6/2014;Uruguai
+23/7/1966;Inglaterra
+3/7/2010;Paraguai
+23/6/1982;Itália
+17/6/2014;Rússia
+3/6/1986;México
+25/6/2014;Honduras
+21/6/1982;França
+26/6/2010;Estados Unidos
+12/6/2010;Inglaterra
+3/7/1994;Suécia
+3/7/2018;Colombia
+13/6/2002;Equador
+20/6/2006;Suécia
+7/6/1934;Alemanha
+20/6/2014;Itália
+8/6/1958;Hungria
+18/6/2006;Japão
+9/7/2014;Holanda
+30/6/2006;Alemanha
+25/6/2002;Alemanha
+2/6/1970;Uruguai
+23/6/1974;Suécia
+14/6/1974;Alemanha Ocidental
+27/6/2018;Mexico
+22/6/2014;Bélgica
+20/6/1954;Hungria
+11/6/1970;Itália
+20/6/1994;Holanda
+19/6/2018;Polonia
+3/6/1970;Brasil
+16/7/1950;Suécia
+2/7/1994;Alemanha
+17/7/1994;Brasil
+6/6/1970;União Soviética
+7/6/1978;Brasil
+15/7/1966;Chile
+23/6/2006;Togo
+20/6/2018;Irã
+29/6/2010;Espanha
+20/7/1966;Inglaterra
+15/6/1958;Paraguai
+2/6/1978;Argentina
+24/6/1994;México
+6/6/1970;Uruguai
+20/6/2014;Honduras
+8/6/1990;Camarões
+22/6/2014;Estados Unidos
+1/6/1934;Itália
+28/6/1982;França
+26/6/1990;Iugoslávia
+10/7/1994;Bulgária
+3/6/1978;Peru
+25/6/1950;Inglaterra
+28/6/2018;Inglaterra
+16/6/1990;Inglaterra
+7/6/1962;México
+11/6/2010;Uruguai
+22/6/1998;Romênia
+19/6/1954;Áustria
+20/6/2018;Portugal
+18/6/2010;Eslovênia
+10/6/1986;Itália
+17/6/1982;Tchecoslováquia
+2/7/1982;Alemanha Ocidental
+16/6/1982;Argélia
+2/6/1962;Iugoslávia
+7/6/1970;México
+30/6/1998;Croácia
+14/6/2006;Tunísia
+25/6/1950;Espanha
+23/6/2014;Croácia
+6/6/2002;Dinamarca
+20/6/1982;Alemanha Ocidental
+2/6/2002;Espanha
+22/6/1982;Escócia
+23/6/1998;Chile
+24/6/1982;Argélia
+15/6/2010;Brasil
+12/6/1938;Hungria
+7/6/2002;Suécia
+17/6/2014;Bélgica
+25/6/1950;Suécia
+13/6/1998;Bélgica
+14/6/1962;Tchecoslováquia
+20/7/1930;Paraguai
+14/6/1970;Uruguai
+11/6/1978;Brasil
+27/6/2018;Suíça
+16/6/2006;Holanda
+18/6/2002;Turquia
+25/6/2014;Nigéria
+27/6/2010;Argentina
+12/7/2014;Brasil
+28/6/2018;Panamá
+2/6/1978;Itália
+28/6/2014;Brasil
+15/6/2018;Marrocos
+29/6/2014;Holanda
+5/6/1938;Brasil
+6/6/1986;Brasil
+17/7/1930;Estados Unidos
+17/6/1954;Suíça
+31/5/1934;Itália
+4/6/1986;Dinamarca
+23/6/1990;Tchecoslováquia
+23/6/1998;Marrocos
+22/6/1974;Brasil
+26/6/1990;Inglaterra
+18/6/2014;Espanha
+14/6/1982;Brasil
+13/6/1974;Brasil
+23/6/2018;Belgica
+25/6/1950;Iugoslávia
+23/6/2010;Estados Unidos
+24/6/1990;Alemanha Ocidental
+9/6/1990;Colômbia
+14/6/2014;Costa do Marfim
+2/6/1986;União Soviética
+11/6/2006;Sérvia e Montenegro
+25/6/1994;Bélgica
+11/6/1978;Escócia
+4/7/1998;Holanda
+5/7/2014;Argentina
+13/7/1966;Argentina
+16/6/1998;Escócia
+14/6/1978;Argentina
+11/6/1990;Costa Rica
+23/6/2010;Austrália
+7/6/1986;Polônia
+28/6/2014;Colômbia
+29/6/1994;Arábia Saudita
+13/6/2014;México
+30/5/1962;Brasil
+3/7/1950;Brasil
+22/6/2010;México
+25/6/1998;Alemanha
+26/6/1974;Alemanha Ocidental
+9/6/1986;França
+10/7/2018;França
+10/6/2006;Trinidad e Tobago
+2/6/1962;Brasil
+31/5/1962;Hungria
+14/6/1970;Brasil
+12/6/2002;Inglaterra
+5/7/2014;Holanda
+25/6/2018;Irã
+26/6/2018;Australia
+4/6/2002;Coreia do Sul
+5/6/1938;Hungria
+22/6/2018;Nigéria
+26/6/2018;Islândia
+18/6/1982;Itália
+26/6/2014;Portugal
+7/7/2018;Suécia
+2/7/1994;Espanha
+26/7/1966;Inglaterra
+17/6/2014;Brasil
+27/6/2018;Servia
+21/6/2018;Dinamarca
+12/6/2002;Espanha
+3/7/1998;França
+13/6/1962;Tchecoslováquia
+21/6/1978;Áustria
+18/6/2018;Bélgica
+22/6/1994;Suíça
+15/6/2014;Suíça
+28/6/1994;Rússia
+19/6/1954;Uruguai
+12/6/2006;Estados Unidos
+22/6/2006;Japão
+11/7/2018;Croácia
+14/6/2014;Uruguai
+19/6/2010;Holanda
+10/6/1970;União Soviética
+13/6/1998;México
+14/6/1938;Tchecoslováquia
+15/6/1958;Alemanha Ocidental
+14/6/1990;Camarões
+14/6/1970;Alemanha Ocidental
+1/7/2014;Argentina
+23/6/1994;Itália
+2/6/2002;Inglaterra
+17/6/2018;Alemanha
+15/6/2006;Inglaterra
+15/6/2002;Alemanha
+5/6/2002;Estados Unidos
+25/6/2010;Chile
+4/6/1986;Alemanha Ocidental
+19/7/1930;Argentina
+5/6/1938;Tchecoslováquia
+21/6/1994;Argentina
+3/7/1974;Alemanha Ocidental
+9/6/2002;México
+18/6/1986;Espanha
+5/6/2002;Rússia
+25/6/2010;Suíça
+18/6/1986;Inglaterra
+19/6/2006;Espanha
+8/7/1982;Itália
+14/6/1978;Brasil
+14/6/2006;Espanha
+3/7/1954;Áustria
+14/6/1982;Itália
+22/6/2002;Turquia
+24/6/1958;Brasil
+11/6/2002;Irlanda
+30/6/1954;Alemanha Ocidental
+18/6/1974;Brasil
+18/6/2006;França
+29/6/1950;Estados Unidos
+19/6/1990;Iugoslávia
+14/6/1990;Iugoslávia
+21/6/2010;Portugal
+16/6/1938;Hungria
+9/6/2006;Polônia
+19/6/1974;Holanda
+6/6/1978;Argentina
+17/6/1958;União Soviética
+27/6/1998;Itália
+14/6/1990;Itália
+20/6/2018;Uruguai
+11/6/1958;União Soviética
+15/6/1998;Romênia
+19/6/1958;Brasil
+13/6/2010;Argélia
+5/6/1938;Itália
+19/6/2006;Arábia Saudita
+21/6/2002;Brasil
+14/6/2018;Russia
+16/6/2006;Argentina
+23/6/2014;Camarões
+24/6/2006;Alemanha
+3/6/1934;Itália
+11/6/1978;Peru
+23/6/2014;Austrália
+3/6/1970;Itália
+1/6/2002;Alemanha
+11/6/1958;Alemanha Ocidental
+13/6/1998;Nigéria
+21/6/1990;Holanda
+12/6/1998;França
+3/6/1962;Espanha
+26/6/1974;Brasil
+30/6/2002;Brasil
+1/6/1978;Polônia
+22/6/2018;Sérvia
+21/6/1982;Honduras
+25/7/1966;Alemanha Ocidental
+20/6/1954;Turquia
+4/6/1986;Paraguai
+15/6/1974;Holanda
+6/6/1970;Romênia
+23/7/1966;Portugal
+28/7/1966;Portugal
+24/6/1994;Suécia
+14/6/1974;Escócia
+23/6/1998;Noruega
+15/6/1958;França
+23/6/1974;Polônia
+21/6/1994;Nigéria
+29/6/2002;Turquia
+20/6/1982;Espanha
+29/6/1950;Suécia
+22/6/1974;Alemanha Oriental
+30/7/1966;Inglaterra
+24/6/1998;Arábia Saudita
+21/6/2018;França
+3/6/1962;União Soviética
+18/6/1994;Irlanda
+10/7/1982;Polônia
+8/6/1986;Dinamarca
+19/7/1966;Coreia do Norte
+16/6/1954;Uruguai
+19/6/1974;Argentina
+3/6/1970;Bélgica
+21/7/1930;Uruguai
+12/6/1958;Suécia
+18/6/1978;Itália
+24/6/2014;Costa Rica
+3/6/1978;Brasil
+21/6/2006;Irã
+14/6/1998;Argentina
+19/6/1974;Bulgária
+11/6/1970;Inglaterra
+15/6/2014;França
+1/7/2018;Espanha
+5/6/1986;França
+24/6/1982;Tchecoslováquia
+8/6/2002;África do Sul
+20/6/1954;Itália
+7/6/1962;Bulgária
+3/6/2002;México
+19/6/1954;Brasil
+7/7/2010;Alemanha
+3/7/2010;Argentina
+6/6/1986;Hungria
+12/6/1998;Bulgária
+10/6/2002;Bélgica
+19/6/1990;Colômbia
+26/7/1930;Argentina
+7/6/1978;Áustria
+17/6/1954;Hungria
+22/7/1930;Argentina
+25/6/1990;Irlanda
+11/7/2010;Holanda
+8/6/1958;Inglaterra
+20/6/1954;Inglaterra
+7/7/1990;Itália
+28/6/2018;Senegal
+19/6/1958;Suécia
+30/6/2018;Uruguai
+30/6/2006;Itália
+30/6/1994;Bulgária
+21/6/1998;Alemanha
+21/6/2018;Argentina
+1/7/1990;Alemanha Ocidental
+15/6/1958;Áustria
+11/7/1966;Inglaterra
+6/6/1978;Itália
+6/6/1978;Polônia
+18/6/1974;Alemanha Ocidental
+1/7/1990;Inglaterra
+FIM
+250
+E 16/6/1954;Iugoslávia
+D
+D
+D
+E 9/7/1950;Espanha
+D
+E 11/7/1982;Itália
+E 6/6/1962;Argentina
+D
+D
+D
+E 8/7/1982;Alemanha Ocidental
+E 13/7/1930;França
+E 22/6/1986;Bélgica
+D
+E 1/7/2006;Inglaterra
+D
+D
+D
+E 12/6/2002;Paraguai
+D
+E 5/7/1994;Itália
+D
+E 8/6/1958;França
+E 18/6/1978;Polônia
+D
+E 11/6/2006;Angola
+D
+E 17/6/1962;Brasil
+E 9/6/1938;Cuba
+E 20/6/1998;Bélgica
+D
+D
+E 14/6/2002;Coreia do Sul
+D
+E 16/6/2002;Senegal
+D
+D
+E 10/6/1934;Itália
+E 3/7/1974;Suécia
+D
+E 11/6/2010;África do Sul
+E 25/6/1990;Itália
+E 5/7/1982;Inglaterra
+D
+E 19/6/2010;Gana
+D
+D
+E 27/6/2006;Espanha
+D
+D
+D
+E 11/6/2002;Senegal
+D
+D
+E 28/6/1986;França
+E 24/6/1994;Brasil
+D
+E 29/6/1958;Brasil
+D
+D
+D
+D
+E 15/6/2014;Argentina
+E 30/6/1990;Itália
+D
+D
+D
+D
+E 28/6/1950;Brasil
+E 13/6/2014;Espanha
+D
+D
+D
+E 10/6/1990;Tchecoslováquia
+D
+E 1/7/1982;Áustria
+D
+D
+E 29/6/1950;Espanha
+E 26/6/2018;Dinamarca
+D
+E 13/6/2006;Coreia do Sul
+D
+D
+D
+D
+E 19/7/1966;Argentina
+E 30/7/1930;Uruguai
+D
+E 19/6/2006;Togo
+E 17/6/2006;Portugal
+E 11/6/1998;Itália
+D
+D
+E 27/5/1934;Itália
+E 1/7/2006;Brasil
+E 17/6/1982;Áustria
+E 11/6/1998;Áustria
+D
+E 19/6/1994;Noruega
+E 16/6/2014;Irã
+D
+E 16/6/2018;Argentina
+D
+D
+D
+D
+D
+E 16/7/1966;Portugal
+E 13/6/1962;Brasil
+D
+D
+D
+D
+D
+E 25/6/1998;Bélgica
+E 3/6/1970;Alemanha Ocidental
+E 9/6/2006;Alemanha
+D
+D
+D
+D
+E 9/6/2002;Japão
+D
+D
+E 11/6/1986;Bélgica
+E 24/6/2014;Itália
+D
+D
+D
+D
+E 19/6/1958;França
+E 21/6/1982;Áustria
+D
+D
+D
+E 27/5/1934;Alemanha
+E 24/6/2010;Paraguai
+D
+D
+E 1/6/2002;Irlanda
+E 12/7/1966;Brasil
+E 21/6/1994;Alemanha
+D
+E 3/6/1934;Tchecoslováquia
+D
+D
+D
+E 8/7/2006;Alemanha
+D
+E 6/7/1974;Polônia
+D
+E 15/6/1958;Suécia
+D
+E 24/6/1990;Argentina
+D
+E 6/6/2002;Camarões
+D
+E 12/6/2006;Austrália
+E 18/6/1982;Brasil
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+D
+E 14/7/1930;Romênia
+D
+E 26/6/1974;Holanda
+E 28/6/2010;Brasil
+E 15/6/1986;México
+D
+E 7/6/1978;Holanda
+D
+D
+E 19/6/1938;Itália
+D
+E 12/7/1966;Alemanha Ocidental
+E 10/6/1978;Itália
+E 27/6/1994;Alemanha
+D
+E 24/6/1982;Iugoslávia
+D
+E 19/6/1990;Áustria
+E 27/6/1954;Alemanha Ocidental
+E 24/6/2010;Eslováquia
+D
+D
+E 30/6/1998;Argentina
+D
+D
+E 15/6/1998;Inglaterra
+D
+E 28/6/1994;Irlanda
+E 16/6/1982;Honduras
+D
+E 2/7/2018;Brasil
+D
+D
+D
+E 11/6/1958;Paraguai
+E 28/6/1982;Polônia
+D
+E 19/6/2010;Camarões
+D
+E 2/7/1950;Uruguai
+D
+E 26/6/2014;Estados Unidos
+E 11/6/1958;Brasil
+D
+D
+E 27/6/2018;Coreia do Sul
+E 6/7/2018;Brasil
+D
+E 25/6/2014;Equador
+D
+E 12/6/2014;Brasil
+D
+D
+E 24/6/1998;Paraguai
+D
+E 9/7/1994;Brasil
+E 17/6/2010;Grécia
+E 27/5/1934;Espanha
+E 16/6/1954;Brasil
+D
+D
+E 17/6/1990;Bélgica
+E 18/6/1998;França
+E 13/6/2010;Alemanha
+E 13/7/1930;Estados Unidos
+E 25/6/1978;Argentina
+D
+D
+D
+D
+E 17/6/1998;Itália
+E 21/6/2006;Portugal
+D
+E 7/6/1986;Espanha
+D
+D
